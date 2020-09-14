@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Земляков А А</name>
+        <group>БИСО-01-17</group>
+        <card>17Б0278</card>
+    </student>
+    <student>
+        <name>Карпеченко Д С</name>
+        <group>БИСО-01-17</group>
+        <card>17Б0111</card>
+    </student>
+    <student>
+        <name>Демидов И В</name>
+        <group>БИСО-01-17</group>
+        <card>17Б0228</card>
+    </student>
+    <student>
+        <name>123123</name>
+        <group>123</group>
+        <card>123</card>
+    </student>
+</students>
